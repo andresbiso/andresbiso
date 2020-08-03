@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hello, I'm Andrés Biso! 👋
 
+I'm a Full-Stack Web Developer with more than 5 years working on IT mainly on technologies like Angular and the .NET framework. I love FOSS and even thought I mostly work on Windows and on Mac I am always trying to use as much free software as possible.
+
+I'm currently working on improving my skills as a developer and I'm eager to give a hand to Open Source projects.
 <!--
 **andresbiso/andresbiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
