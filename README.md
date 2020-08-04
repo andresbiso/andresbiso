@@ -1,17 +1,9 @@
 ## Hello, I'm Andrés Isaac Biso! Welcome to my GitHub page!
 
 ### About Me
-I'm a Full-Stack Developer with more than 5 years of experience.
-### Back End Frameworks
-I've been using the .NET framework for a couple of years now.
-### Front End Frameworks
-I've been using the Angular framework the last couple of years. (All the way up from AngularJs)
-### Interests
-I love Free and Open Source Software (FOSS).
-### Fun Fact
-I'm almost always listening to music while programming.
-### Overview
-I'm currently working on improving my skills as a developer and I'm eager to give a hand to Open Source projects.
+- I'm a Full-Stack Developer with more than 5 years of experience.
+- I've been working with the .NET and Angular frameworks for a couple of years now.
+- I'm currently working on improving my skills as a developer and I'm eager to contribute to open source projects.
 
 <div align="middle">
  
