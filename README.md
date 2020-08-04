@@ -2,6 +2,10 @@
 
 ### About Me
 I'm a Full-Stack Web Developer with more than 5 years of experience.
+### Back End Frameworks
+I've been using the .NET framework for a couple of years now.
+### Front End Frameworks
+I've been using the Angular framework the last couple of years. (All the way up since AngularJs)
 ### Interests
 I love Free and Open Source Software (FOSS).
 ### Fun Fact
