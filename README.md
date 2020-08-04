@@ -1,7 +1,7 @@
 ## Hello, I'm Andrés Biso! Welcome to my GitHub page!
 
 ### About Me
-I'm a Full-Stack Web Developer with more than 5 years of experience.
+I'm a Full-Stack Developer with more than 5 years of experience.
 ### Back End Frameworks
 I've been using the .NET framework for a couple of years now.
 ### Front End Frameworks
