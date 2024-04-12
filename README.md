@@ -18,4 +18,4 @@ Quick Link
 [X]:https://twitter.com/andres_biso
 [LinkedIn]:https://www.linkedin.com/in/andresbiso/
 [GitHub]:https://github.com/andresbiso
-[Website]:https://andresbiso.netlify.app/
+[Website]:https://andresbiso.github.io/personal-site/
